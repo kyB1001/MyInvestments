@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7a5c83c-0936-4cfa-af79-d1640e061ca9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/MyInvestmentsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/SecurityFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/models/CookieProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/models/Credentials$CredentialType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/models/Credentials.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/models/FirebaseProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/models/FirebaseUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/models/SecurityProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/services/CookieUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/auth/services/SecurityService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/AccountContoller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/BlogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/InvestmentRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/PortfolioController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/PostRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/StockRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/controllers/UserRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/BaseComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/BaseInvestments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/BasePost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/BaseStockChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/Investments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/RestComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/RestInvestments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/RestPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/RestStockChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/StockChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/Ticker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/services/InvestmentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/services/PostService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/services/StockService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/famu/myinvestments/services/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/serviceAccountKey.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ic7nA113SLLP591uext6VPmroD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/rburgess/Documents/GitHub/MyInvestments",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "swagger",
+    "spring.configuration.checksum": "cb8794d2090600222cb83205893f65b7",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/famu/myinvestments/auth/models" />
+      <recent name="$PROJECT_DIR$/src/main/java/edu/famu/myinvestments" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyInvestmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyInvestments" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.famu.myinvestments.MyInvestmentsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+    <option name="showInfrastructureBeans" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a5c83c-0936-4cfa-af79-d1640e061ca9" name="Changes" comment="" />
+      <created>1670469185307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670469185307</updated>
+      <workItem from="1670471046975" duration="219000" />
+      <workItem from="1670471303155" duration="2932000" />
+      <workItem from="1670474838556" duration="6095000" />
+      <workItem from="1670544827045" duration="18774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/resources/static/login.js</url>
+          <line>20</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
